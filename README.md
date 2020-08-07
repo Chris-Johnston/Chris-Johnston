@@ -1,3 +1,10 @@
+```
+═════════════════ஜ۩۞۩ஜ═════════════════════
+ W E L C O M E - T O - M Y - P R O F I L E
+═════════════════ஜ۩۞۩ஜ═════════════════════
+```
+
+
 # `$ whoami`
 
 I'm Chris Johnston, and I'm a Software Engineer in the greater Seattle area, working on Azure at Microsoft.
