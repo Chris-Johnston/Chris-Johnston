@@ -9,4 +9,4 @@ The repositories on this page are mostly my own side projects which are only inf
 [bin]: https://github.com/Chris-Johnston/binarykeyboard
 [iot]: https://github.com/Chris-Johnston/door-monitor
 
-![Snowflake Ornament Picture](https://github.com/Chris-Johnston/snowflake-ornament/raw/master/images/snowflake.png)
+![Snowflake Ornament Picture](https://github.com/Chris-Johnston/snowflake-ornament/raw/master/images/snowing.jpg)
