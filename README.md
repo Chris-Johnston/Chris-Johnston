@@ -1,6 +1,6 @@
 # `$ whoami`
 
-I'm Chris Johnston, and I'm a Software Engineer in the greater Seattle area, working on Azure at Microsoft.
+I'm a Software Engineer in the greater Seattle area.
 The repositories on this page are my own side projects which are only infrequently maintained in my free time.
 
 [I like blinking LEDs][ledcap], [weird keyboards][bin], and [messing around with IOT stuff][iot].
